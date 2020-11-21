@@ -1,1 +1,11 @@
-consol.log('prueba GIT')
+<script>
+
+myFcuncion (){
+
+alert('pasando por aqui');
+
+console.log('console');
+
+}
+
+</script>
