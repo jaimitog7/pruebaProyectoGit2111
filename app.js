@@ -12,6 +12,10 @@ console.log('console');
 segundometodo(param1,param2){
 
 alert('segundo funcion');
+alert('segundo funcion');
+alert('segundo funcion');
+alert('segundo funcion');
+alert('segundo funcion');
 
 }
 
