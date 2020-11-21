@@ -2,7 +2,7 @@
 prueba git 
 
 
-##aqui agregando readme . #############################################333333
+##aqui agregando readme para resolver conflicto. #############################################333333
 dewdasdsadsad
 as
 ds
